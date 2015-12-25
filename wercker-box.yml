@@ -1,7 +1,7 @@
 name : nodejs
-version : 1.4.1
+version : 1.4.2
 description: Latest NodeJS version
-inherits : wercker/ubuntu12.04-nodejs0.10@1.6.1
+inherits : wercker/ubuntu12.04-nodejs0.10@5.3.0
 type : main
 platform : ubuntu@12.04
 keywords:
